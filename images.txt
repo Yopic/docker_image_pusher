@@ -7,3 +7,10 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+vaultwarden/server
+linuxserver/heimdall
+donlyoffice/communityserver
+xhofe/alist
+gcr.dockerproxy.com/zenika-hub/alpine-chrome:123
+getmeili/meilisearch:v1.6
+ghcr.io/hoarder-app/hoarder-workers
