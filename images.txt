@@ -8,3 +8,5 @@ vaultwarden/server
 linuxserver/heimdall
 frooodle/s-pdf:latest
 wcjiang/reference:latest
+louislam/dockge:1
+donknap/dpanel
