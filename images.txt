@@ -10,3 +10,4 @@ frooodle/s-pdf:latest
 wcjiang/reference:latest
 louislam/dockge:1
 donknap/dpanel
+m1k1o/neko:firefox
