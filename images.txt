@@ -12,3 +12,4 @@ louislam/dockge:1
 donknap/dpanel
 m1k1o/neko:firefox
 sec77/perlite
+elestio/searxng
