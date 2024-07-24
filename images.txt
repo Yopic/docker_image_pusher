@@ -3,16 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-vaultwarden/server
-linuxserver/heimdall
-frooodle/s-pdf:latest
-wcjiang/reference:latest
-louislam/dockge:1
-donknap/dpanel
-m1k1o/neko:firefox
-sec77/perlite
-elestio/searxng
+--platform=
 kuaifan/php:swoole-8.0.rc15
 nginx/alpine
 redis/alpine
