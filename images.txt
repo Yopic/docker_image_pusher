@@ -4,9 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=
-nginx/alpine:
-redis/alpine:
-mariadb:10.7.3
 onlyoffice/documentserver:7.5.1.1    
 kuaifan/fileview:4.2.0-SNAPSHOT-RC25
 jgraph/drawio:20.8.20
