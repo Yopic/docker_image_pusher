@@ -5,8 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=
 kuaifan/php:swoole-8.0.rc15
-nginx/alpine
-redis/alpine
+nginx/alpine:
+redis/alpine:
 mariadb:10.7.3
 onlyoffice/documentserver:7.5.1.1    
 kuaifan/fileview:4.2.0-SNAPSHOT-RC25
