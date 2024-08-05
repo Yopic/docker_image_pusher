@@ -8,3 +8,4 @@ nriver/trilium-cn
 lgs821/ifile
 onlyoffice/documentserver
 p3terx/aria2-pro
+redis:alpine
